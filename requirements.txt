@@ -1,2 +1,5 @@
 xlsxwriter
 openpyxl
+scrapegraphai
+datetime
+requests
